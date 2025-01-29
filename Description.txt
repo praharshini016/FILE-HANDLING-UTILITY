@@ -1,0 +1,20 @@
+Description:
+
+Read:
+
+Description: Reads the contents of a file and prints them to the console.
+Example: Reading the contents of a text file, a CSV file, or a JSON file.
+
+Write:
+
+Description: Writes data to a file.
+Example: Writing text to a file, appending data to an existing file, writing data in a specific format (e.g., CSV, JSON).
+
+Modify:
+
+Description: Changes the contents of a file.
+Example:Overwriting existing data with new data.
+Appending new data to the end of the file.
+Replacing specific lines or characters within the file.
+
+This is the newly appended text.
